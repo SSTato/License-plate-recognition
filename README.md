@@ -10,7 +10,7 @@ License plate recognition using OCR.
 <details>
   <summary>车牌识别 (click to expand)</summary>
 
-<p align="left"><img width="800" src="https://github.com/SSTato/License-plate-recognition/blob/master/images/01.PNG"></p>
+<p align="left"><img width="800" src="https://github.com/SSTato/License-plate-recognition/blob/master/images/01.png"></p>
 
 </details>
 
